@@ -7,7 +7,7 @@ Objective
 
 The primary objective of this project is to build a predictive machine learning model that can analyze patient blood parameters and classify whether a chronic disease condition is likely to be present or not.
 
-#Key Features
+Key Features
 
 Exploratory Data Analysis of the healthcare dataset
 Data preprocessing and feature analysis
@@ -16,11 +16,11 @@ Machine Learning-based disease classification
 Model evaluation using appropriate performance metrics
 Prediction of chronic disease presence based on input health parameters
 
-#Technologies Used
+Technologies Used
 
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Jupyter Notebook
 
-#Dataset
+Dataset
 
 The dataset used in this project was obtained from Kaggle and contains relevant clinical and blood-related parameters used for machine learning-based disease prediction.
 
